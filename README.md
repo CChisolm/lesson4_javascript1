@@ -13,8 +13,7 @@ Cameron Chisolm
 The project is designed to create an expense calculator to ask the user for their expenses(in dollars)  on shelter, food, household, miscellaneous and transportaion. The expense calculator will then determine their total and show the percentage of the total expenses spent for each of the five categories. 
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/CChisolm/lesson4_javascript1 
 
 ### Lessons Learned in the Assignment:
 1. I learned how to use the the getElementById() method to access the elements from the index.html to the id. The getElementById() method allowed me to      access the expense amount the user entered.
